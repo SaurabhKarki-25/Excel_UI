@@ -4,7 +4,7 @@ This project is a front-end-only React prototype built as part of the React Inte
 
 ## 🚀 Live Demo
 
-[Live URL](https://your-deployment-url.com) *(Replace this with your actual deployed URL)*
+[Live URL]( https://excel-ui-lake.vercel.app/ ) *(Replace this with your actual deployed URL)*
 
 ## 📌 Project Objective
 
@@ -49,7 +49,7 @@ project-root/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/spreadsheet-prototype.git
+git clone https://github.com/SaurabhKarki-25/Excel_UI.git
 cd spreadsheet-prototype
 
 # 2. Install dependencies
